@@ -2,7 +2,7 @@ This repository contains the best Roblox Hack PC hack and tutorial for the year 
 All rights reserved. The products are licensed.
 
 # Installation
-1) Run game, in game start Roblox.exe
+1) Run game, in game start RobloxHack.exe
 2) Your welcome!
 
 # Features
